@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="lanqiaomovezero.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="后缀表达式.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="二分查找.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="STL.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="BFS.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="zhuanhuan.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="6.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="冶炼金属（二分）.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="整数拼接.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="寄包柜.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数列分段.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="A-B数对.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="字串简写（二分）.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DFS.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="飞机降落.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DP%28状态转移%29.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="example.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="整数删除（优先队列）.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="接龙序列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="图的遍历（dfs）.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="三国游戏（dfs）.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="填充（贪心）.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="翻转.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="二分查找数列分段（桶的思想）.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="愤怒的牛（二分查找）.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="子矩阵%28单调队列%29.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="公因数匹配.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="单调队列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="更小的数（区间DP）.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="买瓜.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="平方差（打标+数学）.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="二维前缀和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="李白打酒.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="张草.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="迷宫（DFS回溯）.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="景区导游%28图的存储%29.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="砍树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="斐波那契数组%28dfs%29.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="X进制减法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="扫雷%28队列%29.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="消除游戏.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="纸张尺寸.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="扫描游戏.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="FileName1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="阶乘.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="好数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="SqList.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DLinkList.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
